@@ -1,0 +1,1 @@
+Si quisieramos que todos los medicamentos se vendieran al mismo precio quitariamos el atributo precio en la relacion venden y se lo pondriamos como atributo directamente a medicamento para que siempre un mismo medicamento tenga el mismo precio.

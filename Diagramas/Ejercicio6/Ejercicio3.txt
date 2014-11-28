@@ -1,0 +1,1 @@
+Tendriamos que crear una entidad dependiente de la relacion Recetan, que tendria como atributos la fecha de la receta, la cantidad y un id de receta
